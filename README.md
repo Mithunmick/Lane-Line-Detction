@@ -1,4 +1,4 @@
-Lane Line Detection with Image Compression for ADAS
+#Lane Line Detection with Image Compression for ADAS
 Course Project – DTU, Course: 34240 Data Science, Compression and Image Communication
 Spring 2024
 
